@@ -1,0 +1,1 @@
+Detecting whether an upcoming rock is a mine or not is very critical for defence industry. In this problem, I tried to create a machine learning model that can classify whether is a rock is mine or not. We will use SOTA Deep learning library, Tensorflow to solve this problem. The dataset contains sonar signals data and the same can be downloaded from this repo or Kaggle.
